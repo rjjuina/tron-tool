@@ -1,5 +1,5 @@
 [submodule "proto/tron"]
 	path = proto/tron
-	url = git@github.com:tronprotocol/protocol.git
+	url = git@github.com:jjuina/protocol.git
 	branch = master
 	ignore = dirty
